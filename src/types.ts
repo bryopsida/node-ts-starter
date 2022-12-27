@@ -1,10 +1,9 @@
 const TYPES = {
   Services: {
-    Kubernetes: Symbol.for('Kubernetes')
+    Echo: Symbol.for("Echo"),
   },
-  K8S: {
-    Config: Symbol.for('Config'),
-    CoreApi: Symbol.for('CoreApi')
-  }
-}
-export { TYPES }
+  ECHO: {
+    Config: Symbol.for("Config"),
+  },
+};
+export { TYPES };
