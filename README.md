@@ -24,6 +24,7 @@ The following scripts are included in the NPM project configuration
 - `build:docs` generates the documentation pages from the code comments
 - `build:image` build the container image from the Dockerfile
 - `start` runs the compiled js in `dist`
+- `start:dev` runs using nodemon and will automatically rebuild and launch whenever a change is made under the source folder
 
 ## Structure
 
