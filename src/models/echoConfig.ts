@@ -1,3 +1,3 @@
 export interface IEchoConfig {
-  delay: number;
+  delay: number
 }

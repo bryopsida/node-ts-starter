@@ -3,4 +3,4 @@ module.exports = {
   testEnvironment: "node",
   testTimeout: 240000,
   verbose: true,
-};
+}
