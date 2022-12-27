@@ -1,7 +1,7 @@
 {
   "name": "node-ts-starter",
   "version": "0.1.0",
-  "description": "A starter template for creating TypeScript, Node.JS apps that interface with kubernetes",
+  "description": "A starter template for creating TypeScript, Node.JS apps",
   "main": "dist/app.js",
   "scripts": {
     "start": "node dist/app.js",
@@ -17,8 +17,6 @@
     "url": "git+https://github.com/bryopsida/node-ts-starter.git"
   },
   "keywords": [
-    "k8s",
-    "kubernetes",
     "starter",
     "template",
     "typescript",
