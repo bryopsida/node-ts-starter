@@ -54,7 +54,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "config": "^3.3.8",
+    "config": "^4.0.0",
     "inversify": "^7.0.0",
     "pino": "^9.0.0",
     "reflect-metadata": "^0.2.0"
